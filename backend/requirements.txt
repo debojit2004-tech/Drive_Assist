@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+opencv-python-headless
+mediapipe
+deepface
+tf-keras
+websockets
+python-dotenv
+motor
+pymongo
+google-genai>=1.0.0
+httpx
+geopy
+numpy
+Pillow
+pydantic
