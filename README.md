@@ -201,5 +201,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-Built with ❤️ for safer roads · <strong>DriveAssist AI © 2026</strong>
+Built by Virat Giri, Debojit Roy, Dwarkanath Krishna and Shreesh Pathak for safer roads · <strong>DriveAssist AI © 2026</strong>
 </div>
